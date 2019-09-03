@@ -7,6 +7,7 @@ python 抓取几个新闻站，其中有一个为动态加载，即前后端分�
 使用:
 
 scrappy crawl 31qu
+
 scrappy crawl daily
 
 根据提示安装相应的模块即可
